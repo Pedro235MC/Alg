@@ -10,7 +10,7 @@ Inicio
  repita
    limpatela
  
-   escreval ("_____ BEM VINDO A ESCOLA TAL,TAL,TAL_________")
+   escreval ("_________BEM VINDO A ESCOLA TAL,TAL,TAL_________")
    escreval ("")
    escreval ("O que deseja fazer?")
    escreval ("Aperte 1 para realizar seu cadastro")
